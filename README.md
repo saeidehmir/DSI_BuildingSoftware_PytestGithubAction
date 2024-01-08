@@ -19,3 +19,8 @@ Ensure you have the following installed:
 To run the tests, navigate to the test directory and execute:
 
 python test_my_package.py
+
+
+remember to use the following command to install the package first:
+
+pip install git+https://github.com/saeidehmir/TopGithubRepos.git
