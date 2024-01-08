@@ -1,4 +1,11 @@
-# tests.py
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan  7 22:03:04 2024
+
+@author: saeideh
+"""
+
 import unittest
 from TopGithubRepos.get_top_repos import get_top_repos
 
